@@ -1,3 +1,3 @@
 # JCS-District-Website
 
-[ ] Add pages
+[] Add pages
